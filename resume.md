@@ -12,7 +12,7 @@ Student researcher
 
 ## University of Washington (Seattle, WA)
 
-*[UW][]CENTER FOR ENVIRONMENTAL HEALTH EQUITY (CEHE), Environmental Protection Agency Thriving Communities Technical Assistance Center (TCTAC)*
+*[UW][] CENTER FOR ENVIRONMENTAL HEALTH EQUITY (CEHE), Environmental Protection Agency Thriving Communities Technical Assistance Center (TCTAC)*
 
 ** Graduate Student Research Associate to Esther Min, Ph.D.** (June 2024–September 2024)
 
