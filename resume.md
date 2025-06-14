@@ -5,7 +5,7 @@ nickhadj@uw.edu
 https://www.linkedin.com/in/nick-hadjimichael-a0614bba/
 
 # Summary
-Here is a draft resume.
+> Here is a draft resume.
 
 # Work Experience
 Student researcher
@@ -42,3 +42,5 @@ Student researcher
 [UW]: https://www.washington.edu/
 [USC]: https://www.usc.edu/
 [UChi]: https://www.uchicago.edu/en
+
+![Co-pilot Nyx](image.png)
