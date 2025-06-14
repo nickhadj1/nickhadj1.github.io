@@ -44,3 +44,4 @@ Student researcher
 [UChi]: https://www.uchicago.edu/en
 
 ![Co-pilot Nyx](image.png)
+> My co-pilot Nyx helping her color-blind owner decide on color for symbology
